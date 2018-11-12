@@ -1,0 +1,12 @@
+.my-row
+{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: 15px;
+}
+.my-row img
+{
+    width: 50%;
+    height: 50%;
+}

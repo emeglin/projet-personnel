@@ -4,3 +4,8 @@
    align-content: center;
    flex-flow: row wrap;
 }
+.my-color
+{
+    background-color: #445488;
+    margin: 10% 10% 0% 0%;
+}

@@ -16,3 +16,8 @@
     margin: 10% 10% 0% 0%;
     text-align: center;
 }
+.my-disposition 
+{
+    display: flex;
+    justify-content: center;
+}
